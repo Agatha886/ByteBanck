@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\AGATHA\C#\ByteBanck\07-ByteBank\bin\Debug\07-ByteBank.exe.config
+C:\Users\Admin\Desktop\AGATHA\C#\ByteBanck\07-ByteBank\bin\Debug\07-ByteBank.exe
+C:\Users\Admin\Desktop\AGATHA\C#\ByteBanck\07-ByteBank\bin\Debug\07-ByteBank.pdb
+C:\Users\Admin\Desktop\AGATHA\C#\ByteBanck\07-ByteBank\obj\Debug\07-ByteBank.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\AGATHA\C#\ByteBanck\07-ByteBank\obj\Debug\07-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\AGATHA\C#\ByteBanck\07-ByteBank\obj\Debug\07-ByteBank.exe
+C:\Users\Admin\Desktop\AGATHA\C#\ByteBanck\07-ByteBank\obj\Debug\07-ByteBank.pdb
+C:\Users\Admin\Desktop\AGATHA\C#\ByteBanck - Copia\07-ByteBank\bin\Debug\07-ByteBank.exe.config
+C:\Users\Admin\Desktop\AGATHA\C#\ByteBanck - Copia\07-ByteBank\bin\Debug\07-ByteBank.exe
+C:\Users\Admin\Desktop\AGATHA\C#\ByteBanck - Copia\07-ByteBank\bin\Debug\07-ByteBank.pdb
+C:\Users\Admin\Desktop\AGATHA\C#\ByteBanck - Copia\07-ByteBank\obj\Debug\07-ByteBank.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\AGATHA\C#\ByteBanck - Copia\07-ByteBank\obj\Debug\07-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\AGATHA\C#\ByteBanck - Copia\07-ByteBank\obj\Debug\07-ByteBank.exe
+C:\Users\Admin\Desktop\AGATHA\C#\ByteBanck - Copia\07-ByteBank\obj\Debug\07-ByteBank.pdb
